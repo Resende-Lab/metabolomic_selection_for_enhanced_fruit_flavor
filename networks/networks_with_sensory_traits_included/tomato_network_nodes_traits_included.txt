@@ -1,0 +1,70 @@
+nodeName	altName	nodeAttr[nodesPresent, ]
+liking	NA	green
+sweetness	NA	green
+sour	NA	black
+salty	NA	black
+bitter	NA	black
+umami	NA	black
+intensity	NA	black
+Soluble solids	NA	green
+citric	NA	black
+glucose	NA	green
+fructose	NA	green
+glutamic acid	NA	green
+1-nitro-2-phenylethane	NA	magenta
+1-nitro-3-methylbutane	NA	yellow
+1-octen-3-one	NA	turquoise
+1-pentanol	NA	turquoise
+1-penten-3-ol	NA	brown
+1-penten-3-one	NA	brown
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	NA	turquoise
+2-isobutylthiazole	NA	yellow
+2-methyl-1-butanol	NA	blue
+2-methyl-2-butenal	NA	blue
+2-methylbutyl acetate	NA	blue
+2-methylbutyraldehyde	NA	blue
+2-phenyl ethanol	NA	magenta
+3-methyl-1-butanol	NA	purple
+3-methyl-1-pentanol	NA	brown
+3-methyl-2-butenal	NA	blue
+3-pentanone	NA	brown
+4-carene	NA	grey
+6-methyl-5-hepten-2-ol	NA	pink
+6-methyl-5-hepten-2-one	NA	pink
+b-cyclocitral	NA	turquoise
+benzaldehyde	NA	magenta
+benzyl alcohol	NA	yellow
+benzyl cyanide	NA	magenta
+b-ionone	NA	turquoise
+butyl acetate	NA	blue
+cis-2-penten-1-ol	NA	brown
+cis-3-hexen-1-ol	NA	red
+cis-3-hexenal	NA	brown
+cis-3-hexenyl acetate	NA	red
+cis-4-decenal	NA	turquoise
+eugenol	NA	red
+geranial	NA	pink
+geranylacetone	NA	pink
+guaiacol	NA	brown
+heptaldehyde	NA	yellow
+hexanal	NA	brown
+hexyl acetate	NA	red
+hexyl alcohol	NA	red
+isobutyl acetate	NA	blue
+isopentyl acetate	NA	purple
+isovaleraldehyde	NA	purple
+isovaleric acid	NA	yellow
+isovaleronitrile	NA	yellow
+methional	NA	grey
+methylsalicylate	NA	brown
+neral	NA	pink
+nonyl aldehyde	NA	turquoise
+phenylacetaldehyde	NA	magenta
+prenyl acetate	NA	blue
+propyl acetate	NA	blue
+salicylaldehyde	NA	red
+trans,trans-2,4-decadienal	NA	turquoise
+trans-2-heptenal	NA	turquoise
+trans-2-hexenal	NA	turquoise
+trans-2-pentenal	NA	turquoise
+trans-3-hexen-1-ol	NA	yellow

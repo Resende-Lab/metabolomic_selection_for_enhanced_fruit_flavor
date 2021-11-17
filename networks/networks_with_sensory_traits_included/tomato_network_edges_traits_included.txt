@@ -1,0 +1,268 @@
+fromNode	toNode	weight	direction	fromAltName	toAltName
+liking	sweetness	0.155628559714878	undirected	NA	NA
+liking	intensity	0.0935806268890839	undirected	NA	NA
+liking	Soluble solids	0.0939364124421674	undirected	NA	NA
+liking	glucose	0.114430828415238	undirected	NA	NA
+liking	fructose	0.118868072361834	undirected	NA	NA
+sweetness	salty	0.0251819430039918	undirected	NA	NA
+sweetness	umami	0.0442474475876477	undirected	NA	NA
+sweetness	intensity	0.139736216916782	undirected	NA	NA
+sweetness	Soluble solids	0.172160621485369	undirected	NA	NA
+sweetness	glucose	0.219147019675926	undirected	NA	NA
+sweetness	fructose	0.221752388086589	undirected	NA	NA
+sour	salty	0.167723806909575	undirected	NA	NA
+sour	bitter	0.147186583022192	undirected	NA	NA
+sour	umami	0.0377808858632089	undirected	NA	NA
+sour	intensity	0.0569284276732375	undirected	NA	NA
+sour	citric	0.0916966259355645	undirected	NA	NA
+salty	bitter	0.158073357370267	undirected	NA	NA
+salty	umami	0.169209179712543	undirected	NA	NA
+salty	intensity	0.111468307771202	undirected	NA	NA
+salty	citric	0.0323662905249451	undirected	NA	NA
+bitter	umami	0.0529854128541781	undirected	NA	NA
+bitter	intensity	0.0319446881014492	undirected	NA	NA
+umami	intensity	0.109289386411069	undirected	NA	NA
+intensity	Soluble solids	0.0598922328692183	undirected	NA	NA
+intensity	citric	0.0224070246379183	undirected	NA	NA
+intensity	glucose	0.0747679652662843	undirected	NA	NA
+intensity	fructose	0.0758096758984959	undirected	NA	NA
+Soluble solids	glucose	0.575293282150888	undirected	NA	NA
+Soluble solids	fructose	0.60712338549067	undirected	NA	NA
+Soluble solids	glutamic acid	0.0524731567669808	undirected	NA	NA
+Soluble solids	benzyl cyanide	0.0469431420489307	undirected	NA	NA
+glucose	fructose	0.5971326718549	undirected	NA	NA
+glucose	glutamic acid	0.0566383055499692	undirected	NA	NA
+glucose	benzyl cyanide	0.0552785317107018	undirected	NA	NA
+fructose	glutamic acid	0.0523207758496205	undirected	NA	NA
+fructose	benzyl cyanide	0.050291514954619	undirected	NA	NA
+glutamic acid	benzyl alcohol	0.0346398085361979	undirected	NA	NA
+1-nitro-2-phenylethane	2-phenyl ethanol	0.104989945313999	undirected	NA	NA
+1-nitro-2-phenylethane	benzyl alcohol	0.0265365119365419	undirected	NA	NA
+1-nitro-2-phenylethane	benzyl cyanide	0.193902633233975	undirected	NA	NA
+1-nitro-2-phenylethane	phenylacetaldehyde	0.0936507719712959	undirected	NA	NA
+1-nitro-3-methylbutane	2-isobutylthiazole	0.0819440913038882	undirected	NA	NA
+1-nitro-3-methylbutane	3-methyl-1-butanol	0.129532049099649	undirected	NA	NA
+1-nitro-3-methylbutane	heptaldehyde	0.348114118370004	undirected	NA	NA
+1-nitro-3-methylbutane	isopentyl acetate	0.0476999297724008	undirected	NA	NA
+1-nitro-3-methylbutane	isovaleraldehyde	0.141634539350869	undirected	NA	NA
+1-nitro-3-methylbutane	isovaleric acid	0.0284641387231045	undirected	NA	NA
+1-nitro-3-methylbutane	isovaleronitrile	0.361200008992919	undirected	NA	NA
+1-nitro-3-methylbutane	trans-3-hexen-1-ol	0.130851047965206	undirected	NA	NA
+1-octen-3-one	1-pentanol	0.032621006940929	undirected	NA	NA
+1-octen-3-one	2,5-dimethyl-4-hydroxy-3(2H)-furanone	0.0532072631704249	undirected	NA	NA
+1-octen-3-one	b-ionone	0.0281105910993765	undirected	NA	NA
+1-octen-3-one	cis-3-hexen-1-ol	0.0219311922666913	undirected	NA	NA
+1-octen-3-one	hexyl alcohol	0.0221780825694048	undirected	NA	NA
+1-octen-3-one	trans,trans-2,4-decadienal	0.0256351027531541	undirected	NA	NA
+1-octen-3-one	trans-2-heptenal	0.0629951196228652	undirected	NA	NA
+1-pentanol	2,5-dimethyl-4-hydroxy-3(2H)-furanone	0.139974030992322	undirected	NA	NA
+1-pentanol	6-methyl-5-hepten-2-ol	0.0516223010081068	undirected	NA	NA
+1-pentanol	6-methyl-5-hepten-2-one	0.0276425462637627	undirected	NA	NA
+1-pentanol	b-cyclocitral	0.0227334215633567	undirected	NA	NA
+1-pentanol	b-ionone	0.048962650112832	undirected	NA	NA
+1-pentanol	cis-3-hexen-1-ol	0.108088172847065	undirected	NA	NA
+1-pentanol	cis-3-hexenyl acetate	0.0342243209272675	undirected	NA	NA
+1-pentanol	cis-4-decenal	0.119652436297322	undirected	NA	NA
+1-pentanol	geranial	0.0554688604441244	undirected	NA	NA
+1-pentanol	hexyl alcohol	0.126148676776382	undirected	NA	NA
+1-pentanol	neral	0.0252892109945356	undirected	NA	NA
+1-pentanol	trans,trans-2,4-decadienal	0.104130594440614	undirected	NA	NA
+1-pentanol	trans-2-heptenal	0.117746843886588	undirected	NA	NA
+1-pentanol	trans-2-hexenal	0.0509991529639665	undirected	NA	NA
+1-pentanol	trans-2-pentenal	0.0543387648015447	undirected	NA	NA
+1-penten-3-ol	3-methyl-1-pentanol	0.0308226099461012	undirected	NA	NA
+1-penten-3-ol	3-pentanone	0.1159832748342	undirected	NA	NA
+1-penten-3-ol	b-cyclocitral	0.0276405280701483	undirected	NA	NA
+1-penten-3-ol	b-ionone	0.0247165046051495	undirected	NA	NA
+1-penten-3-ol	cis-2-penten-1-ol	0.0866111270907589	undirected	NA	NA
+1-penten-3-ol	cis-3-hexen-1-ol	0.0571548182340033	undirected	NA	NA
+1-penten-3-ol	cis-3-hexenal	0.0471074488892432	undirected	NA	NA
+1-penten-3-ol	cis-3-hexenyl acetate	0.0363385741436299	undirected	NA	NA
+1-penten-3-ol	hexanal	0.025497509678447	undirected	NA	NA
+1-penten-3-ol	trans-2-pentenal	0.0531877714321346	undirected	NA	NA
+1-penten-3-one	3-pentanone	0.0368458496807074	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	6-methyl-5-hepten-2-ol	0.0321928919891555	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	b-ionone	0.0607015995601526	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	cis-3-hexen-1-ol	0.0313581445985958	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	cis-4-decenal	0.085490921144068	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	geranial	0.0239172804821388	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	hexyl alcohol	0.0490200943225778	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	isovaleric acid	0.0244687593350452	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	trans,trans-2,4-decadienal	0.423555669571389	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	trans-2-heptenal	0.270672319076554	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	trans-2-hexenal	0.0724561443193293	undirected	NA	NA
+2,5-dimethyl-4-hydroxy-3(2H)-furanone	trans-2-pentenal	0.0866146276075596	undirected	NA	NA
+2-isobutylthiazole	3-methyl-1-butanol	0.0235667792332851	undirected	NA	NA
+2-isobutylthiazole	benzyl alcohol	0.125833081933423	undirected	NA	NA
+2-isobutylthiazole	heptaldehyde	0.0529671105100685	undirected	NA	NA
+2-isobutylthiazole	isovaleronitrile	0.105597457800266	undirected	NA	NA
+2-isobutylthiazole	trans-3-hexen-1-ol	0.0204220838450183	undirected	NA	NA
+2-methyl-1-butanol	2-methyl-2-butenal	0.293054528973253	undirected	NA	NA
+2-methyl-1-butanol	2-methylbutyl acetate	0.249926084109267	undirected	NA	NA
+2-methyl-1-butanol	2-methylbutyraldehyde	0.0295858658417431	undirected	NA	NA
+2-methyl-1-butanol	3-methyl-1-butanol	0.0312811204254915	undirected	NA	NA
+2-methyl-1-butanol	3-methyl-2-butenal	0.0238810094373238	undirected	NA	NA
+2-methyl-1-butanol	butyl acetate	0.0494538235466857	undirected	NA	NA
+2-methyl-1-butanol	isobutyl acetate	0.227750432892026	undirected	NA	NA
+2-methyl-1-butanol	isopentyl acetate	0.02426771025604	undirected	NA	NA
+2-methyl-1-butanol	phenylacetaldehyde	0.0386529592060885	undirected	NA	NA
+2-methyl-1-butanol	propyl acetate	0.0975225604826398	undirected	NA	NA
+2-methyl-2-butenal	2-methylbutyl acetate	0.279127757892606	undirected	NA	NA
+2-methyl-2-butenal	2-methylbutyraldehyde	0.0613995899585402	undirected	NA	NA
+2-methyl-2-butenal	3-methyl-1-butanol	0.020197277045373	undirected	NA	NA
+2-methyl-2-butenal	3-methyl-2-butenal	0.0239509991091422	undirected	NA	NA
+2-methyl-2-butenal	butyl acetate	0.0865624894526624	undirected	NA	NA
+2-methyl-2-butenal	isobutyl acetate	0.250512177733674	undirected	NA	NA
+2-methyl-2-butenal	isopentyl acetate	0.0333766004822849	undirected	NA	NA
+2-methyl-2-butenal	phenylacetaldehyde	0.0235112295457455	undirected	NA	NA
+2-methyl-2-butenal	prenyl acetate	0.0213683551174298	undirected	NA	NA
+2-methyl-2-butenal	propyl acetate	0.164872179410979	undirected	NA	NA
+2-methylbutyl acetate	2-methylbutyraldehyde	0.0296406977486349	undirected	NA	NA
+2-methylbutyl acetate	3-methyl-2-butenal	0.0506786713892143	undirected	NA	NA
+2-methylbutyl acetate	butyl acetate	0.167593535615048	undirected	NA	NA
+2-methylbutyl acetate	cis-3-hexenyl acetate	0.0353667189655556	undirected	NA	NA
+2-methylbutyl acetate	isobutyl acetate	0.395672542502236	undirected	NA	NA
+2-methylbutyl acetate	isopentyl acetate	0.0527678326321713	undirected	NA	NA
+2-methylbutyl acetate	prenyl acetate	0.0520507322672284	undirected	NA	NA
+2-methylbutyl acetate	propyl acetate	0.197163156905761	undirected	NA	NA
+2-methylbutyraldehyde	isobutyl acetate	0.0226721751694187	undirected	NA	NA
+2-phenyl ethanol	benzyl cyanide	0.0453232873193378	undirected	NA	NA
+2-phenyl ethanol	phenylacetaldehyde	0.161170256562415	undirected	NA	NA
+3-methyl-1-butanol	3-methyl-2-butenal	0.0211229865068861	undirected	NA	NA
+3-methyl-1-butanol	cis-2-penten-1-ol	0.0268121001498604	undirected	NA	NA
+3-methyl-1-butanol	heptaldehyde	0.0656000742695281	undirected	NA	NA
+3-methyl-1-butanol	isopentyl acetate	0.181568389299911	undirected	NA	NA
+3-methyl-1-butanol	isovaleraldehyde	0.175323561228284	undirected	NA	NA
+3-methyl-1-butanol	isovaleronitrile	0.103421882040146	undirected	NA	NA
+3-methyl-1-butanol	propyl acetate	0.0249608556716984	undirected	NA	NA
+3-methyl-1-butanol	trans-3-hexen-1-ol	0.130479712912185	undirected	NA	NA
+3-methyl-1-pentanol	butyl acetate	0.0204018972238986	undirected	NA	NA
+3-methyl-1-pentanol	cis-2-penten-1-ol	0.234288592576047	undirected	NA	NA
+3-methyl-1-pentanol	cis-3-hexenal	0.0299274728349316	undirected	NA	NA
+3-methyl-1-pentanol	trans-3-hexen-1-ol	0.0301335622325846	undirected	NA	NA
+3-methyl-2-butenal	cis-3-hexenyl acetate	0.029972213054207	undirected	NA	NA
+3-methyl-2-butenal	isobutyl acetate	0.0633052733082073	undirected	NA	NA
+3-methyl-2-butenal	propyl acetate	0.0258512287961158	undirected	NA	NA
+3-pentanone	cis-2-penten-1-ol	0.0326708257846081	undirected	NA	NA
+3-pentanone	trans-2-pentenal	0.026956524611423	undirected	NA	NA
+4-carene	methional	0.023153572109863	undirected	NA	NA
+6-methyl-5-hepten-2-ol	6-methyl-5-hepten-2-one	0.0566774357462058	undirected	NA	NA
+6-methyl-5-hepten-2-ol	cis-3-hexen-1-ol	0.0314689033478848	undirected	NA	NA
+6-methyl-5-hepten-2-ol	cis-4-decenal	0.0298019000614968	undirected	NA	NA
+6-methyl-5-hepten-2-ol	geranial	0.0944201075498181	undirected	NA	NA
+6-methyl-5-hepten-2-ol	hexyl alcohol	0.0454833095286536	undirected	NA	NA
+6-methyl-5-hepten-2-ol	neral	0.0392143832171151	undirected	NA	NA
+6-methyl-5-hepten-2-ol	trans-2-heptenal	0.0361537361322832	undirected	NA	NA
+6-methyl-5-hepten-2-one	b-cyclocitral	0.0458055797801682	undirected	NA	NA
+6-methyl-5-hepten-2-one	b-ionone	0.0221212313385253	undirected	NA	NA
+6-methyl-5-hepten-2-one	cis-3-hexen-1-ol	0.046063818743672	undirected	NA	NA
+6-methyl-5-hepten-2-one	cis-3-hexenyl acetate	0.024889847019146	undirected	NA	NA
+6-methyl-5-hepten-2-one	cis-4-decenal	0.0448486768421123	undirected	NA	NA
+6-methyl-5-hepten-2-one	geranial	0.321539152680364	undirected	NA	NA
+6-methyl-5-hepten-2-one	geranylacetone	0.0780370508098623	undirected	NA	NA
+6-methyl-5-hepten-2-one	hexyl alcohol	0.0423843363485983	undirected	NA	NA
+6-methyl-5-hepten-2-one	neral	0.0372242414752725	undirected	NA	NA
+b-cyclocitral	b-ionone	0.183831632645333	undirected	NA	NA
+b-cyclocitral	cis-3-hexen-1-ol	0.0640219774262937	undirected	NA	NA
+b-cyclocitral	geranial	0.0698714458085802	undirected	NA	NA
+b-cyclocitral	hexyl alcohol	0.0286330192219982	undirected	NA	NA
+b-cyclocitral	nonyl aldehyde	0.0277014573541612	undirected	NA	NA
+b-cyclocitral	trans-2-heptenal	0.0279203290600222	undirected	NA	NA
+b-cyclocitral	trans-2-pentenal	0.0275504401426782	undirected	NA	NA
+b-cyclocitral	trans-3-hexen-1-ol	0.0309982564375093	undirected	NA	NA
+benzaldehyde	phenylacetaldehyde	0.0427681024725561	undirected	NA	NA
+benzyl alcohol	benzyl cyanide	0.0462870847428992	undirected	NA	NA
+benzyl cyanide	phenylacetaldehyde	0.0416080273815845	undirected	NA	NA
+b-ionone	cis-3-hexen-1-ol	0.0669765677021687	undirected	NA	NA
+b-ionone	cis-4-decenal	0.021780125008506	undirected	NA	NA
+b-ionone	geranial	0.0436462055831061	undirected	NA	NA
+b-ionone	hexanal	0.0237321310124179	undirected	NA	NA
+b-ionone	hexyl alcohol	0.0381852223974823	undirected	NA	NA
+b-ionone	isovaleric acid	0.0542114918744547	undirected	NA	NA
+b-ionone	nonyl aldehyde	0.0251687180889996	undirected	NA	NA
+b-ionone	trans,trans-2,4-decadienal	0.0241886873013748	undirected	NA	NA
+b-ionone	trans-2-heptenal	0.100236416059377	undirected	NA	NA
+b-ionone	trans-2-hexenal	0.0503856953626083	undirected	NA	NA
+b-ionone	trans-2-pentenal	0.0803448149868294	undirected	NA	NA
+b-ionone	trans-3-hexen-1-ol	0.0408810674625765	undirected	NA	NA
+butyl acetate	cis-2-penten-1-ol	0.0241185338452223	undirected	NA	NA
+butyl acetate	cis-3-hexenyl acetate	0.0456703281297487	undirected	NA	NA
+butyl acetate	isobutyl acetate	0.138042801167582	undirected	NA	NA
+butyl acetate	isopentyl acetate	0.0383652208912014	undirected	NA	NA
+butyl acetate	prenyl acetate	0.0356929557440447	undirected	NA	NA
+butyl acetate	propyl acetate	0.108543677827157	undirected	NA	NA
+butyl acetate	salicylaldehyde	0.0304555609587601	undirected	NA	NA
+cis-2-penten-1-ol	cis-3-hexenal	0.0917603043300236	undirected	NA	NA
+cis-2-penten-1-ol	guaiacol	0.0220331499924843	undirected	NA	NA
+cis-2-penten-1-ol	hexanal	0.0369133012808318	undirected	NA	NA
+cis-2-penten-1-ol	isopentyl acetate	0.0208753659838554	undirected	NA	NA
+cis-2-penten-1-ol	trans-2-pentenal	0.0205444778037563	undirected	NA	NA
+cis-2-penten-1-ol	trans-3-hexen-1-ol	0.0315645804648609	undirected	NA	NA
+cis-3-hexen-1-ol	cis-3-hexenyl acetate	0.0808829167621806	undirected	NA	NA
+cis-3-hexen-1-ol	cis-4-decenal	0.0389357958341821	undirected	NA	NA
+cis-3-hexen-1-ol	geranial	0.0771538724544515	undirected	NA	NA
+cis-3-hexen-1-ol	hexanal	0.0298131011475948	undirected	NA	NA
+cis-3-hexen-1-ol	hexyl acetate	0.05324978958147	undirected	NA	NA
+cis-3-hexen-1-ol	hexyl alcohol	0.184472541560569	undirected	NA	NA
+cis-3-hexen-1-ol	neral	0.0269145338107575	undirected	NA	NA
+cis-3-hexen-1-ol	trans-2-heptenal	0.0544581707683681	undirected	NA	NA
+cis-3-hexen-1-ol	trans-2-hexenal	0.0529375760574749	undirected	NA	NA
+cis-3-hexen-1-ol	trans-2-pentenal	0.0753690026580056	undirected	NA	NA
+cis-3-hexen-1-ol	trans-3-hexen-1-ol	0.0288324304653949	undirected	NA	NA
+cis-3-hexenal	hexanal	0.175075881674983	undirected	NA	NA
+cis-3-hexenal	methylsalicylate	0.0453771048988833	undirected	NA	NA
+cis-3-hexenal	trans-2-pentenal	0.0257239807407725	undirected	NA	NA
+cis-3-hexenal	trans-3-hexen-1-ol	0.0202476970845199	undirected	NA	NA
+cis-3-hexenyl acetate	cis-4-decenal	0.0351340467105081	undirected	NA	NA
+cis-3-hexenyl acetate	geranial	0.0357659623105411	undirected	NA	NA
+cis-3-hexenyl acetate	hexyl acetate	0.172936920849383	undirected	NA	NA
+cis-3-hexenyl acetate	hexyl alcohol	0.0359209284760464	undirected	NA	NA
+cis-3-hexenyl acetate	isobutyl acetate	0.034407438261344	undirected	NA	NA
+cis-3-hexenyl acetate	prenyl acetate	0.0236527166059477	undirected	NA	NA
+cis-3-hexenyl acetate	propyl acetate	0.0253616779604854	undirected	NA	NA
+cis-3-hexenyl acetate	salicylaldehyde	0.0315928637814703	undirected	NA	NA
+cis-4-decenal	geranial	0.0681263609756492	undirected	NA	NA
+cis-4-decenal	hexyl alcohol	0.0413221909704291	undirected	NA	NA
+cis-4-decenal	trans,trans-2,4-decadienal	0.0432819796675288	undirected	NA	NA
+cis-4-decenal	trans-2-heptenal	0.0599160445864115	undirected	NA	NA
+eugenol	guaiacol	0.0212038155734912	undirected	NA	NA
+eugenol	salicylaldehyde	0.131462147767889	undirected	NA	NA
+geranial	geranylacetone	0.0434957201497138	undirected	NA	NA
+geranial	hexyl acetate	0.0229831661806922	undirected	NA	NA
+geranial	hexyl alcohol	0.0845735923252118	undirected	NA	NA
+geranial	neral	0.0540799546200443	undirected	NA	NA
+geranial	nonyl aldehyde	0.0216709626835268	undirected	NA	NA
+geranial	trans-2-heptenal	0.03502549292778	undirected	NA	NA
+guaiacol	methylsalicylate	0.020105583360478	undirected	NA	NA
+guaiacol	salicylaldehyde	0.0627503872783352	undirected	NA	NA
+heptaldehyde	isovaleraldehyde	0.055495754688341	undirected	NA	NA
+heptaldehyde	isovaleric acid	0.0261678895033406	undirected	NA	NA
+heptaldehyde	isovaleronitrile	0.360889409860593	undirected	NA	NA
+heptaldehyde	trans-3-hexen-1-ol	0.0678912472400089	undirected	NA	NA
+hexanal	methylsalicylate	0.02136263324849	undirected	NA	NA
+hexanal	trans-2-pentenal	0.0217640629091587	undirected	NA	NA
+hexyl acetate	hexyl alcohol	0.048717003937877	undirected	NA	NA
+hexyl alcohol	neral	0.0235742232724218	undirected	NA	NA
+hexyl alcohol	trans-2-heptenal	0.0726058219427548	undirected	NA	NA
+hexyl alcohol	trans-2-hexenal	0.0435226922323505	undirected	NA	NA
+hexyl alcohol	trans-2-pentenal	0.0336602911233116	undirected	NA	NA
+isobutyl acetate	isopentyl acetate	0.0424245412329768	undirected	NA	NA
+isobutyl acetate	prenyl acetate	0.0562554676259044	undirected	NA	NA
+isobutyl acetate	propyl acetate	0.191827724771829	undirected	NA	NA
+isopentyl acetate	isovaleraldehyde	0.191614962770556	undirected	NA	NA
+isopentyl acetate	isovaleronitrile	0.0224726373100454	undirected	NA	NA
+isopentyl acetate	propyl acetate	0.0559729935897176	undirected	NA	NA
+isopentyl acetate	trans-3-hexen-1-ol	0.0303378716101892	undirected	NA	NA
+isovaleraldehyde	isovaleronitrile	0.0904411822248907	undirected	NA	NA
+isovaleraldehyde	trans-3-hexen-1-ol	0.0432043572507574	undirected	NA	NA
+isovaleric acid	isovaleronitrile	0.0394817167628752	undirected	NA	NA
+isovaleric acid	trans-2-heptenal	0.0336250443998247	undirected	NA	NA
+isovaleronitrile	trans-3-hexen-1-ol	0.120206669735042	undirected	NA	NA
+prenyl acetate	propyl acetate	0.0201039575768925	undirected	NA	NA
+trans,trans-2,4-decadienal	trans-2-heptenal	0.197168625246097	undirected	NA	NA
+trans,trans-2,4-decadienal	trans-2-hexenal	0.0219598870222905	undirected	NA	NA
+trans,trans-2,4-decadienal	trans-2-pentenal	0.0342585067582165	undirected	NA	NA
+trans-2-heptenal	trans-2-hexenal	0.136314245257566	undirected	NA	NA
+trans-2-heptenal	trans-2-pentenal	0.142602147458466	undirected	NA	NA
+trans-2-hexenal	trans-2-pentenal	0.0983259962850782	undirected	NA	NA
+trans-2-pentenal	trans-3-hexen-1-ol	0.0227809432867549	undirected	NA	NA

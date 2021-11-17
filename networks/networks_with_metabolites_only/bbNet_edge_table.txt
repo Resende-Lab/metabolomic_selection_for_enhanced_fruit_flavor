@@ -1,0 +1,196 @@
+fromNode toNode weight direction fromAltName toAltName
+6-Methyl-5-hepten-2-one   (E)-geranyl-acetone 0.473760110239432 undirected NA NA
+fructose   glucose 0.427437748916495 undirected NA NA
+TA   SS_TA 0.379809870369309 undirected NA NA
+Nerylacetone   (E)-geranyl-acetone 0.372936204947336 undirected NA NA
+1-Penten-3-ol   2-Penten-1-ol 0.318576325411195 undirected NA NA
+6-Methyl-5-hepten-2-one   Nerylacetone 0.291366163567391 undirected NA NA
+2-Hexen-1-ol   1-Hexanol 0.261345014582829 undirected NA NA
+Valeraldehyde   Hexanal 0.250956159629087 undirected NA NA
+Valeraldehyde   2-Pentenal 0.19817436617693 undirected NA NA
+2-Hexen-1-al   Heptanal 0.190761638153699 undirected NA NA
+1-Penten-3-ol   2-Pentenal 0.175661819256957 undirected NA NA
+1-Pentanol   2-Penten-1-ol 0.155131034653589 undirected NA NA
+2-Pentenal   2-Penten-1-ol 0.149225673200032 undirected NA NA
+2-Pentenal   Hexanal 0.137924551071789 undirected NA NA
+Soluble solids   glucose 0.137727111746093 undirected NA NA
+Soluble solids   fructose 0.135805732273116 undirected NA NA
+Linalool   Dodecane 0.130370977189999 undirected NA NA
+1-Penten-3-ol   Valeraldehyde 0.126042461443511 undirected NA NA
+Ethyl hexanoate   Dodecane 0.110763168463552 undirected NA NA
+2-Nonanone   2-Undecanone 0.110123179624167 undirected NA NA
+1-Penten-3-ol   2-Hexen-1-ol 0.108696266480392 undirected NA NA
+Methyl salicylate   Geranial 0.108206698030575 undirected NA NA
+Valeraldehyde   2-Penten-1-ol 0.107906883810482 undirected NA NA
+2-Hexenyl-acetate   2-Hexenyl-butyrate 0.104650066738645 undirected NA NA
+3-Hexenyl-acetate   2-Hexenyl-acetate 0.103810110969701 undirected NA NA
+1-Penten-3-ol   1-Pentanol 0.101756247297491 undirected NA NA
+Hexyl acetate   2-Hexenyl-acetate 0.097982674176141 undirected NA NA
+Isoamyl acetate   2-Hexenyl-acetate 0.097677693789035 undirected NA NA
+1-Penten-3-ol   1-Hexanol 0.091697918883883 undirected NA NA
+1-Penten-3-ol   Hexanal 0.090296050756615 undirected NA NA
+2-Pentenal   1-Pentanol 0.087341851086449 undirected NA NA
+2-Hexen-1-ol   2-Hexenyl-acetate 0.075140457801023 undirected NA NA
+2-Penten-1-ol   Hexanal 0.074146931956309 undirected NA NA
+6-Methyl-2-heptanone   (E)-geranyl-acetone 0.070389645985809 undirected NA NA
+3-Hexenyl-acetate   Hexyl acetate 0.067446777008344 undirected NA NA
+1-Penten-3-ol   2-Hexen-1-al 0.066760952703131 undirected NA NA
+Methyl butyrate   Methyl hexanoate 0.06510565653706 undirected NA NA
+Valeraldehyde   1-Pentanol 0.064993531748979 undirected NA NA
+1-Hexanol   2-Hexenyl-acetate 0.061422520392721 undirected NA NA
+2-Octanone   Tridecane 0.060712117352497 undirected NA NA
+2-Pentenal   2-Hexen-1-al 0.059259342523452 undirected NA NA
+2-Undecanone   Caryophyllene 0.058382621904943 undirected NA NA
+2-Heptanone   (E)-geranyl-acetone 0.05740183563997 undirected NA NA
+2-Heptanone   6-Methyl-5-hepten-2-one 0.057310182576839 undirected NA NA
+6-Methyl-2-heptanone   Nerylacetone 0.054236901483356 undirected NA NA
+Methyl butyrate   Hexyl acetate 0.053664654784514 undirected NA NA
+Nonanal   Dodecane 0.053659442167387 undirected NA NA
+1-Penten-3-ol   2-Hexenyl-acetate 0.052886654492185 undirected NA NA
+Ethyl hexanoate   Nonanal 0.051792405233087 undirected NA NA
+2-Penten-1-ol   2-Hexen-1-ol 0.051750533930577 undirected NA NA
+1-Hexanol   2-Hexenyl-butyrate 0.050890505214737 undirected NA NA
+2-Octanone   Nerylacetone 0.049416569382886 undirected NA NA
+2-Nonanone   Caryophyllene 0.048684049034384 undirected NA NA
+6-Methyl-2-heptanone   6-Methyl-5-hepten-2-one 0.048243983704614 undirected NA NA
+2-Octanone   (E)-geranyl-acetone 0.047695817191508 undirected NA NA
+Hexyl acetate   2-Hexenyl-butyrate 0.047448614206615 undirected NA NA
+1-Pentanol   Hexanal 0.046849817372606 undirected NA NA
+2-Hexen-1-ol   2-Hexenyl-butyrate 0.046837102332978 undirected NA NA
+2-Pentenal   Heptanal 0.044476304449872 undirected NA NA
+2-Penten-1-ol   1-Hexanol 0.041816545203906 undirected NA NA
+6-Methyl-5-hepten-2-one   2-Octanone 0.040747484709817 undirected NA NA
+1-Penten-3-ol   Heptanal 0.040305140043184 undirected NA NA
+TA   citric 0.039300156920227 undirected NA NA
+Hexanal   Heptanal 0.038101002856936 undirected NA NA
+Isoamyl acetate   Prenyl acetate 0.035737864134877 undirected NA NA
+Soluble solids   Valeraldehyde 0.035611943894 undirected NA NA
+Hexyl butyrate   Tridecane 0.033834216703423 undirected NA NA
+1-Hexanol   Hexyl acetate 0.032457883335534 undirected NA NA
+6-Methyl-2-heptanone   Hexyl butyrate 0.032191810695071 undirected NA NA
+(E)-geranyl-acetone   Caryophyllene 0.030080211937381 undirected NA NA
+Ethyl hexanoate   Linalool 0.029674824775515 undirected NA NA
+2-Heptanone   Nerylacetone 0.02942974422143 undirected NA NA
+6-Methyl-5-hepten-2-one   Limonene 0.029289048463643 undirected NA NA
+2-Penten-1-ol   2-Hexen-1-al 0.029188006458301 undirected NA NA
+2-Penten-1-ol   2-Hexenyl-acetate 0.02847985815421 undirected NA NA
+2-Hexen-1-al   Hexanoic acid 0.027863879181253 undirected NA NA
+Hexanal   Hexanoic acid 0.027654213107798 undirected NA NA
+1-Penten-3-ol   3-Hexenyl-acetate 0.027620595317764 undirected NA NA
+Heptanal   Hexanoic acid 0.027154893489423 undirected NA NA
+Soluble solids   2-Pentenal 0.026932542312148 undirected NA NA
+2-Hexen-1-ol   Hexyl acetate 0.02621188014454 undirected NA NA
+2-Hexen-1-ol   Linalool 0.02602827309098 undirected NA NA
+1-Hexanol   Methyl hexanoate 0.025999474008325 undirected NA NA
+Isoamyl acetate   2-Hexenyl-butyrate 0.02555280944255 undirected NA NA
+2-Hexenyl-butyrate   Neral 0.025485141383129 undirected NA NA
+Linalool   Nonanal 0.025268410043454 undirected NA NA
+Prenyl acetate   2-Hexenyl-acetate 0.0249169073114 undirected NA NA
+1-Penten-3-ol   Linalool 0.024882920713995 undirected NA NA
+SS_TA   citric 0.024538571511277 undirected NA NA
+Limonene   (E)-geranyl-acetone 0.023957803735223 undirected NA NA
+glucose   sucrose 0.023716875679153 undirected NA NA
+Hexanal   2-Hexen-1-al 0.023657338204558 undirected NA NA
+Heptanal   Dodecane 0.021963793007679 undirected NA NA
+1-Penten-3-ol   2-Hexenyl-butyrate 0.020618523671367 undirected NA NA
+6-Methyl-2-heptanone   Tridecane 0.020421533754884 undirected NA NA
+6-Methyl-5-hepten-2-one   Caryophyllene 0.020287097062538 undirected NA NA
+Prenyl acetate   2-Hexenyl-butyrate 0.019997682011396 undirected NA NA
+Hexyl butyrate   (E)-geranyl-acetone 0.019871962033994 undirected NA NA
+SS_TA   Methyl isovalerate 0.01986658610549 undirected NA NA
+2-Octanone   Hexyl butyrate 0.019714499181188 undirected NA NA
+3-Hexenyl-acetate   2-Hexenyl-butyrate 0.01966731062463 undirected NA NA
+Methyl hexanoate   2-Ethyl-1-hexanol 0.01962573057934 undirected NA NA
+2-Pentenal   2-Hexen-1-ol 0.019588747560296 undirected NA NA
+Nonanal   Neral 0.019389432944672 undirected NA NA
+Valeraldehyde   Hexanoic acid 0.019287924243158 undirected NA NA
+Alpha pinene   Phenylacetaldehyde 0.019255940181551 undirected NA NA
+Ethyl hexanoate   Hexyl acetate 0.019004690880936 undirected NA NA
+Valeraldehyde   2-Hexen-1-al 0.018782105887143 undirected NA NA
+Valeraldehyde   Heptanal 0.018631146610751 undirected NA NA
+1-Penten-3-ol   Eucalyptol 0.018358833560708 undirected NA NA
+1-Pentanol   Hexanoic acid 0.01787880398164 undirected NA NA
+1-Penten-3-ol   Hexyl acetate 0.017849451473456 undirected NA NA
+2-Pentenal   Hexanoic acid 0.017774655369233 undirected NA NA
+6-Methyl-5-hepten-2-one   Ethyl hexanoate 0.017401650706955 undirected NA NA
+Isoamyl acetate   3-Hexenyl-acetate 0.01722323350344 undirected NA NA
+1-Penten-3-ol   Dodecane 0.017139363005749 undirected NA NA
+2-Penten-1-ol   3-Hexenyl-acetate 0.016767368296354 undirected NA NA
+2-Hexen-1-al   2-Hexenyl-butyrate 0.016585581354587 undirected NA NA
+Hexyl butyrate   Nerylacetone 0.015938124807344 undirected NA NA
+Soluble solids   1-Penten-3-ol 0.015733275498685 undirected NA NA
+1-Hexanol   3-Hexenyl-acetate 0.015651417378806 undirected NA NA
+2-Penten-1-ol   Heptanal 0.015483667983484 undirected NA NA
+Eucalyptol   Dodecane 0.015260517436168 undirected NA NA
+2-Pentenal   2-Undecanone 0.015153833093095 undirected NA NA
+Nerylacetone   Caryophyllene 0.014946326901347 undirected NA NA
+Neral   Tridecane 0.014836293297152 undirected NA NA
+6-Methyl-5-hepten-2-one   Hexyl butyrate 0.014766401171225 undirected NA NA
+2-Pentenal   1-Hexanol 0.014691857345048 undirected NA NA
+2-Hexen-1-ol   3-Hexenyl-acetate 0.014533669257864 undirected NA NA
+6-Methyl-2-heptanone   2-Octanone 0.014356184842099 undirected NA NA
+2-Penten-1-ol   Eucalyptol 0.014319466185915 undirected NA NA
+Methyl butyrate   2-Hexenyl-acetate 0.01416183051076 undirected NA NA
+1-Hexanol   Caryophyllene 0.014070431341243 undirected NA NA
+2-Hexen-1-al   1-Hexanol 0.014064920815827 undirected NA NA
+Methyl hexanoate   2-Hexenyl-butyrate 0.013915841458245 undirected NA NA
+TA   Methyl isovalerate 0.013875312431903 undirected NA NA
+2-Hexen-1-al   2-Hexen-1-ol 0.013816642959829 undirected NA NA
+1-Hexanol   Linalool 0.013736858829425 undirected NA NA
+Valeraldehyde   3-Hexenyl-acetate 0.013566988260009 undirected NA NA
+2-Penten-1-ol   Linalool 0.013516873271514 undirected NA NA
+Isoamyl acetate   Hexyl acetate 0.013420463541391 undirected NA NA
+2-Hexen-1-al   Hexyl acetate 0.013377321700093 undirected NA NA
+2-Pentenal   2-Hexenyl-acetate 0.013292078305791 undirected NA NA
+Ethyl hexanoate   (E)-geranyl-acetone 0.013250453005493 undirected NA NA
+Soluble solids   Hexanal 0.012874986512034 undirected NA NA
+2-Hexen-1-al   Dodecane 0.012846339840764 undirected NA NA
+sucrose   Ethyl hexanoate 0.012842410501378 undirected NA NA
+2-Hexen-1-al   Eucalyptol 0.012827735765421 undirected NA NA
+Methyl hexanoate   Hexyl acetate 0.012419958905889 undirected NA NA
+1-Pentanol   3-Hexenyl-acetate 0.012187353929892 undirected NA NA
+1-Pentanol   1-Hexanol 0.012182639726125 undirected NA NA
+2-Hexen-1-al   2-Hexenyl-acetate 0.011910010134751 undirected NA NA
+fructose   sucrose 0.011779401373664 undirected NA NA
+Limonene   Nerylacetone 0.010960515443201 undirected NA NA
+1-Pentanol   2-Hexen-1-ol 0.010949201686891 undirected NA NA
+3-Methylbutanol   Methyl salicylate 0.010843878451047 undirected NA NA
+2-Hexen-1-ol   Methyl hexanoate 0.010669856522456 undirected NA NA
+Methyl hexanoate   Phenylacetaldehyde 0.010490665616114 undirected NA NA
+Valeraldehyde   2-Hexen-1-ol 0.010476120451996 undirected NA NA
+2-Hexen-1-ol   Isoamyl acetate 0.010273218860362 undirected NA NA
+Heptanal   Ethyl hexanoate 0.010257081952725 undirected NA NA
+Valeraldehyde   2-Undecanone 0.010112488324043 undirected NA NA
+Hexanoic acid   3-Hexenyl-acetate 0.010024548393705 undirected NA NA
+Tridecane   (E)-geranyl-acetone 0.010013144863149 undirected NA NA
+Methyl isovalerate   6-Methyl-5-hepten-2-one 0.006358850891636 undirected NA NA
+2-Octanone   Neral 0.00621680073191 undirected NA NA
+fructose   (E)-geranyl-acetone 0.006211825202486 undirected NA NA
+2-Penten-1-ol   Hexanoic acid 0.006023283821021 undirected NA NA
+2-Heptanone   Hexanoic acid 0.006018752429678 undirected NA NA
+2-Penten-1-ol   Hexyl acetate 0.005955892811337 undirected NA NA
+Hexanal   2-Hexen-1-ol 0.005905862455638 undirected NA NA
+Methyl isovalerate   Limonene 0.005879943503819 undirected NA NA
+Methyl butyrate   2-Hexen-1-ol 0.005875712352064 undirected NA NA
+Hexyl acetate   Dodecane 0.005854025743714 undirected NA NA
+Hexanoic acid   Hexyl acetate 0.005848261365929 undirected NA NA
+1-Penten-3-ol   Isoamyl acetate 0.005814931318839 undirected NA NA
+Nonanal   2-Hexenyl-butyrate 0.005766278908204 undirected NA NA
+Prenyl acetate   6-Methyl-5-hepten-2-one 0.005734407141392 undirected NA NA
+2-Pentenal   Caryophyllene 0.005715668020228 undirected NA NA
+2-Hexen-1-ol   Caryophyllene 0.005566483329043 undirected NA NA
+2-Pentenal   Linalool 0.005488539537406 undirected NA NA
+sucrose   Nonanal 0.005356474348137 undirected NA NA
+Soluble solids   (E)-geranyl-acetone 0.005283818934894 undirected NA NA
+2-Hexenyl-acetate   Eucalyptol 0.005261361141949 undirected NA NA
+Hexyl butyrate   Neral 0.005208149718664 undirected NA NA
+Hexanal   2-Undecanone 0.005185664300854 undirected NA NA
+Alpha pinene   2-Hexenyl-acetate 0.005040695077182 undirected NA NA
+Heptanal   Eucalyptol 0.0050179704172 undirected NA NA
+1-Hexanol   Phenylacetaldehyde 0.005010311064066 undirected NA NA
+Methyl butyrate   Myrtenal 0.001061559610397 undirected NA NA
+2-Pentenal   2-Octanone 0.001060558296035 undirected NA NA
+Linalool   Geranial 0.001059637683429 undirected NA NA
+Methyl butyrate   Heptanal 0.001054190265822 undirected NA NA
+Nonanal   2-Undecanone 0.001027027792651 undirected NA NA
+Methyl isovalerate   Prenyl acetate 0.001014243285375 undirected NA NA
