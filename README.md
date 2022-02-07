@@ -40,7 +40,6 @@ Then we plot the tomato volatile concentration violin plots in panel b:
 
 * [1.b.metabolite_histograms.R]
 
-![Panel B](./results/fig1/asPublished_fig1_panelB.svg)
 
 Additionally, the cytoscape visualization used to plot out the results from 1.a.wgcna_tomato.R and 2.a.wgcna_blueberry.R. Also used to compute betweenness centrality statistics:
 
@@ -60,7 +59,6 @@ Additionally, the cytoscape visualization used to plot out the results from 1.a.
 
 * [2.b.metabolite_histograms.R]
 
-![Panel B](./results/fig2/asPublished_fig2_panelB.svg)
 
 The blueberry cytoscape visualizations are included in the cytoscape network file above.
 
