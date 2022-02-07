@@ -60,18 +60,29 @@ Calculating contributions of volatile classes to variance in flavor ratings usin
 
 ![fig4](./figures/svgs/fig4.svg)
 
-4.a.1.metabolomic_selection_tomato.R
-4.b.1.genomic_selection_tomato.sh
-4.b.2.genomic_selection_tomato.sh
-4.b.3.genomic_selection_tomato.R
-4.b.4.metabolomic_selection_tomato.sh
-4.b.5.metabolomic_selection_tomato.sh
-4.b.6.metabolomic_selection_tomato.R
-4.b.7.gblup_plots.R
-4.c.1.subsampling.sh
-4.c.2.subsampling.sh
-4.c.3.subsampling.R
-4.c.4.subsamplingPlots.R
+* [4.a.1.metabolomic_selection_tomato.R]
+
+* [4.b.1.genomic_selection_tomato.sh]
+
+* [4.b.2.genomic_selection_tomato.sh]
+
+* [4.b.3.genomic_selection_tomato.R]
+
+* [4.b.4.metabolomic_selection_tomato.sh]
+
+* [4.b.5.metabolomic_selection_tomato.sh]
+
+* [4.b.6.metabolomic_selection_tomato.R]
+
+* [4.b.7.gblup_plots.R]
+
+* [4.c.1.subsampling.sh]
+
+* [4.c.2.subsampling.sh]
+
+* [4.c.3.subsampling.R]
+
+* [4.c.4.subsamplingPlots.R]
 
 
 ## Figure 5 <a name="fig5"></a>
