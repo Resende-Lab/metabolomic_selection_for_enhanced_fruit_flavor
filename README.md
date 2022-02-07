@@ -55,6 +55,8 @@ Additionally, the cytoscape visualization used to plot out the results from 1.a.
 
 The blueberry cytoscape visualizations are included in the cytoscape network file above.
 
+
+
 ## Figure 3 <a name="fig3"></a>
 
 ![fig3](./figures/svgs/fig3.svg)
@@ -62,6 +64,8 @@ The blueberry cytoscape visualizations are included in the cytoscape network fil
 ### Calculating contributions of volatile classes to variance in flavor ratings using linear mixed modeling:
 
 * [3.a.variance_decomposition.R]  
+
+
 
 
 ## Figure 4 <a name="fig4"></a>
