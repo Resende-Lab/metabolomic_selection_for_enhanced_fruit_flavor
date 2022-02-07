@@ -20,8 +20,9 @@ Here we will go through the figures and which scripts were used to generate the 
 
 To generate this figure we first preprocess the input data, then create a network using WGCNA, then
 
-*0.preprocessing.R* We start by preprocessing the data from the supplemental files with default choices for imputation and scaling
-*1.a.wgcna_tomato.R*
+[0.preprocessing.R]   We start by preprocessing the data from the supplemental files with default choices for imputation and scaling
+[1.a.wgcna_tomato.R]  Next we create the metabolite network using the WGCNA package
+[1.b.metabolite_histograms.R] Plotting the violin plots in panel b
 
 ![fig1](./figures/svgs/fig1.svg)
 
@@ -48,8 +49,7 @@ To generate this figure we first preprocess the input data, then create a networ
 
 
 
-1.a.wgcna_tomato.R
-1.b.metabolite_histograms.R
+
 2.a.wgcna_blueberry.R
 2.b.metabolite_histograms.R
 3.a.variance_decomposition.R
