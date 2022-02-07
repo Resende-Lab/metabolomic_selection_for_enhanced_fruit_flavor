@@ -15,12 +15,13 @@ This repository contains data and scripts used to repoduce analyses in the manus
 
 Here we will go through the figures and which scripts were used to generate the underlying analysis. Often we generate the analysis in one script and design the figure component in another. We then combine the figure components together in inkscape.
 
-[0.preprocessing.R] We start by preprocessing the data from the supplemental files with default choices for imputation and scaling
 
 ## Figure 1 <a name="fig1"></a>
 
+To generate this figure we first preprocess the input data, then create a network using WGCNA, then
 
-To generate this figure we first create a network
+*0.preprocessing.R* We start by preprocessing the data from the supplemental files with default choices for imputation and scaling
+*1.a.wgcna_tomato.R*
 
 ![fig1](./figures/svgs/fig1.svg)
 
