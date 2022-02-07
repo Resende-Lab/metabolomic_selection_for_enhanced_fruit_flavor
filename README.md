@@ -106,11 +106,11 @@ These models were ran on our HiPerGator cluster. The general structure is the fi
 
 ### Using models trained on all varieties to calculate weights for inference
 
-* [5.a.1.calculate_final_weights.Rmd]
+* [ 5.a.1.calculate_final_weights.Rmd ]
 
-* [5.a.2.plot_tomato_weights.R]
+* [ 5.a.2.plot_tomato_weights.R ]
 
-* [5.a.3.plot_blueberry_weights.R]
+* [ 5.a.3.plot_blueberry_weights.R ]
 
 
 ## Figure 6 <a name="fig6"></a>
