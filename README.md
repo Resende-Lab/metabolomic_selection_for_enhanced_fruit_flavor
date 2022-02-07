@@ -51,6 +51,8 @@ Additionally, the cytoscape visualization used to plot out the results from 1.a.
 
 * [2.b.metabolite_histograms.R]
 
+![Panel B](./results/fig2/asPublished_fig2_panelB.svg)
+
 
 ## Figure 3 <a name="fig3"></a>
 
