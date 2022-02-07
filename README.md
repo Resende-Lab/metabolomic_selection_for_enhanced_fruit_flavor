@@ -7,13 +7,6 @@ This repository contains data and scripts used to repoduce analyses in the manus
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Figures](#figures)
-	1. [Figure 1](#fig1)
-	2. [Figure 2](#fig2)
-	3. [Figure 3](#fig3)
-	4. [Figure 4](#fig4)
-	5. [Figure 5](#fig5)
-	6. [Figure 6](#fig6)
-
 3. [Conclusion](#conclusion)
 
 # Introduction <a name="introduction"></a>
