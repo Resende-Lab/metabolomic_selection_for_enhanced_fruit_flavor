@@ -91,13 +91,13 @@ These models were ran on our HiPerGator cluster. The general structure is the fi
 
 ### Evaluating how many fruit varieties are needed to train accurate metabolomic selection models
 
-* [4.c.1.subsampling.sh]
+* [ 4.c.1.subsampling.sh ]
 
-* [4.c.2.subsampling.sh]
+* [ 4.c.2.subsampling.sh ]
 
-* [4.c.3.subsampling.R]
+* [ 4.c.3.subsampling.R]
 
-* [4.c.4.subsamplingPlots.R]
+* [ 4.c.4.subsamplingPlots.R ]
 
 
 ## Figure 5 <a name="fig5"></a>
