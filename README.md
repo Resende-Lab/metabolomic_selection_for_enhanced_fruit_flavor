@@ -10,6 +10,8 @@ This repository contains data and scripts used to repoduce analyses in the manus
 
 # Abstract <a name="abstract"></a>
 
+*"Consumers often regard heirloom fruit varieties grown in the garden as more flavorful than commercial varieties purchased at the grocery store. While plant breeders have historically focused on improving producer-orientated traits such as yield, consumer-oriented traits such as flavor have regularly been neglected. This is, in part, due to the difficulty associated with measuring the sensory perceptions of flavor. Here, we combine fruit chemical and consumer sensory panel information to train machine learning models that can predict how flavorful a fruit will be from its chemistry. By increasing the throughput of flavor evaluations, these models will help plant breeders to integrate flavor earlier in the breeding pipeline and aid in the design of varieties with exceptional flavor profiles."*
+
 # Figures <a name="figures"></a>
 
 Here we will go through the figures and which scripts were used to generate the underlying analysis. Often we generate the analysis in one script and design the figure component in another. We then combine the figure components together in inkscape.
