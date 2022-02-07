@@ -71,11 +71,11 @@ The blueberry cytoscape visualizations are included in the cytoscape network fil
 
 ![fig4](./figures/svgs/fig4.svg)
 
-### Training metabolomic selection models
+### A) Training metabolomic selection models
 
 * [4.a.1.metabolomic_selection_tomato.R]
 
-### Comparing genomic selection and metabolomic selection models
+### B) Comparing genomic selection and metabolomic selection models
 
 These models were ran on our HiPerGator cluster. The general structure is the first bash script launches the jobs for cross validation and replication, the second bash script creates an environment to run the jobs in R, and the R script does the computation.
 
@@ -93,7 +93,7 @@ These models were ran on our HiPerGator cluster. The general structure is the fi
 
 * [4.b.7.gblup_plots.R]
 
-### Evaluating how many fruit varieties are needed to train accurate metabolomic selection models
+### C) Evaluating how many fruit varieties are needed to train accurate metabolomic selection models
 
 * [4.c.1.subsampling.sh]
 
