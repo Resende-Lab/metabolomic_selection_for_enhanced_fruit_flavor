@@ -5,7 +5,7 @@
 This repository contains data and scripts used to repoduce analyses in the manuscript "Metabolomic Selection for Enhanced Fruit Flavor" found on [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1.full)
 
 # Table of Contents
-1. [Introduction](#introduction)
+1. [Abstract](#Abstract)
 2. [Figures](#figures)
 3. [Conclusion](#conclusion)
 
@@ -15,7 +15,10 @@ This repository contains data and scripts used to repoduce analyses in the manus
 
 Here we will go through the figures and which scripts were used to generate the underlying analysis. Often we generate the analysis in one script and design the figure component in another. We then combine the figure components together in inkscape.
 
+[0.preprocessing.R] We start by preprocessing the data from the supplemental files with default choices for imputation and scaling
+
 ## Figure 1 <a name="fig1"></a>
+
 
 To generate this figure we first create a network
 
@@ -40,3 +43,27 @@ To generate this figure we first create a network
 ## Figure 6 <a name="fig6"></a>
 
 ![fig6](./figures/svgs/fig6.svg)
+
+
+
+
+1.a.wgcna_tomato.R
+1.b.metabolite_histograms.R
+2.a.wgcna_blueberry.R
+2.b.metabolite_histograms.R
+3.a.variance_decomposition.R
+4.a.1.metabolomic_selection_tomato.R
+4.b.1.genomic_selection_tomato.sh
+4.b.2.genomic_selection_tomato.sh
+4.b.3.genomic_selection_tomato.R
+4.b.4.metabolomic_selection_tomato.sh
+4.b.5.metabolomic_selection_tomato.sh
+4.b.6.metabolomic_selection_tomato.R
+4.b.7.gblup_plots.R
+4.c.1.subsampling.sh
+4.c.2.subsampling.sh
+4.c.3.subsampling.R
+4.c.4.subsamplingPlots.R
+5.a.1.calculate_final_weights.Rmd
+5.a.2.plot_tomato_weights.R
+5.a.3.plot_blueberry_weights.R
