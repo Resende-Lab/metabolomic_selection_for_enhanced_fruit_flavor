@@ -4,4 +4,3 @@ This repository contains data and scripts used to repoduce analyses in the manus
 
 ![icons of blueberries and a tomato](./fruit_icons.svg)
 
-hello world
