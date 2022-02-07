@@ -53,6 +53,7 @@ Additionally, the cytoscape visualization used to plot out the results from 1.a.
 
 ![Panel B](./results/fig2/asPublished_fig2_panelB.svg)
 
+The blueberry cytoscape visualizations are included in the cytoscape network file above.
 
 ## Figure 3 <a name="fig3"></a>
 
