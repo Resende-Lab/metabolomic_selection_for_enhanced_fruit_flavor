@@ -18,6 +18,8 @@ Here we will go through the figures and which scripts were used to generate the 
 
 ## Figure 1 <a name="fig1"></a>
 
+![fig1](./figures/svgs/fig1.svg)
+
 To generate this figure we first preprocess the input data, then create a network using WGCNA, then
 
 * [0.preprocessing.R]   
@@ -27,13 +29,21 @@ We start by preprocessing the data from the supplemental files with default choi
 Next we create the metabolite network using the WGCNA package
 
 * [1.b.metabolite_histograms.R]
-Plotting the violin plots in panel b
+Plotting the tomato volatile concentration violin plots in panel b
 
-![fig1](./figures/svgs/fig1.svg)
+
 
 ## Figure 2 <a name="fig2"></a>
 
 ![fig2](./figures/svgs/fig2.svg)
+
+* [2.a.wgcna_blueberry.R]
+Creating the blueberry metabolite network.
+
+* [2.b.metabolite_histograms.R]
+Plotting the blueberry volatile concentration violin plots in panel b
+
+
 
 ## Figure 3 <a name="fig3"></a>
 
