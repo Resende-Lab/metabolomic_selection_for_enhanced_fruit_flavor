@@ -55,7 +55,7 @@ Additionally, the cytoscape visualization used to plot out the results from 1.a.
 
 The blueberry cytoscape visualizations are included in the cytoscape network file above.
 
-
+\\
 
 ## Figure 3 <a name="fig3"></a>
 
@@ -66,7 +66,7 @@ The blueberry cytoscape visualizations are included in the cytoscape network fil
 * [3.a.variance_decomposition.R]  
 
 
-
+\\
 
 ## Figure 4 <a name="fig4"></a>
 
