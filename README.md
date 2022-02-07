@@ -19,23 +19,22 @@ Here we will go through the figures and which scripts were used to generate the 
 
 ![fig1](./figures/svgs/fig1.svg)
 
-To generate this figure we first preprocess the input data, then create a network using WGCNA, then
+To generate this figureWe start by preprocessing the data from the supplemental files with default choices for imputation and scaling
 
 * [0.preprocessing.R]   
 
-We start by preprocessing the data from the supplemental files with default choices for imputation and scaling
+Next we create the metabolite network using the WGCNA package
 
 * [1.a.wgcna_tomato.R]  
 
-Next we create the metabolite network using the WGCNA package
+Then we plot the tomato volatile concentration violin plots in panel b
 
 * [1.b.metabolite_histograms.R]
 
-Plotting the tomato volatile concentration violin plots in panel b
+Additionally, the cytoscape visualization used to plot out the results from 1.a.wgcna_tomato.R and 2.a.wgcna_blueberry.R. Also used to compute betweenness centrality statistics.
 
 * [./results/fig1/asPublished_metabolite_networks.cys]
 
-The cytoscape visualization used to plot out the results from 1.a.wgcna_tomato.R and 2.a.wgcna_blueberry.R. Also used to compute betweenness centrality statistics.
 
 
 ## Figure 2 <a name="fig2"></a>
