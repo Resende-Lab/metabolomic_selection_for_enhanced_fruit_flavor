@@ -1,0 +1,71 @@
+Metabolite,CAS Number,fig1a_legend_number,fig1a_legend_type,WGCNA_cluster_assignment_notused,fig1b_histogram,GBLUP_cluster
+glutamic acid,NA,1,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+malic acid,NA,2,Acid/Sugar,grey,Acid/Sugar,Acid/Sugar
+citric:malic,NA,3,Acid/Sugar,grey,Acid/Sugar,Acid/Sugar
+citric,NA,4,Acid/Sugar,grey,Acid/Sugar,Acid/Sugar
+sugar:acid,NA,5,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+Soluble solids,NA,6,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+fructose,NA,7,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+glucose,NA,8,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+benzyl alcohol,100-51-6,9,Phe derived,yellow,Phe derived,Phe derived
+methylsalicylate,119-36-8,10,Phe derived,brown,Phe derived,Phe derived
+guaiacol,1990-05-01,11,Phe derived,brown,Phe derived,Phe derived
+salicylaldehyde,1990-02-08,12,Phe derived,green,Phe derived,Phe derived
+1-nitro-2-phenylethane,6125-24-2,13,Phe derived,pink,Phe derived,Phe derived
+benzyl cyanide,140-29-4,14,Phe derived,pink,Phe derived,Phe derived
+2-phenyl ethanol,1960-12-08,15,Phe derived,pink,Phe derived,Phe derived
+phenylacetaldehyde,122-78-1,16,Phe derived,pink,Phe derived,Phe derived
+benzaldehyde,100-52-7,17,Phe derived,pink,Phe derived,Phe derived
+2-methyl-1-butanol,137-32-6,18,AA derived,blue,AA derived,AA derived
+2-methyl-2-butenal,497-03-0,19,AA derived,blue,AA derived,AA derived
+propyl acetate,109-60-4,20,AA derived,blue,AA derived,AA derived
+2-methylbutyl acetate,624-41-9,21,AA derived,blue,AA derived,AA derived
+2-methylbutyraldehyde,96-17-3,22,AA derived,blue,AA derived,AA derived
+isobutyl acetate,110-19-0,23,AA derived,blue,AA derived,AA derived
+prenyl acetate,1191-16-8,24,AA derived,blue,AA derived,AA derived
+3-methyl-2-butenal,107-86-8,25,AA derived,blue,AA derived,AA derived
+butyl acetate,123-86-4,26,AA derived,blue,AA derived,AA derived
+isopentyl acetate,123-92-2,27,AA derived,magenta,AA derived,AA derived
+3-methyl-1-butanol,123-51-3,28,AA derived,magenta,AA derived,AA derived
+isovaleraldehyde,590-86-3,29,AA derived,magenta,AA derived,AA derived
+1-nitro-3-methylbutane,627-67-8,30,AA derived,yellow,AA derived,AA derived
+2-isobutylthiazole,18640-74-9,31,AA derived,yellow,AA derived,AA derived
+isovaleronitrile,625-28-5,32,AA derived,yellow,AA derived,AA derived
+isovaleric acid,503-74-2,33,AA derived,yellow,AA derived,AA derived
+heptaldehyde,2074-05-07,34,Lipid,yellow,Lipid,Lipid
+trans-3-hexen-1-ol,928-97-2,35,Lipid,yellow,Lipid,Lipid
+cis-3-hexenal,6789-80-6,36,Lipid,brown,Lipid,Lipid
+hexanal,66-25-1,37,Lipid,brown,Lipid,Lipid
+cis-4-decenal,21662-09-09,38,Lipid,turquoise,Lipid,Lipid
+cis-3-hexen-1-ol,928-96-1,39,Lipid,black,Lipid,Lipid
+cis-2-penten-1-ol,1576-95-0,40,Lipid,brown,Lipid,Lipid
+3-methyl-1-pentanol,589-35-5,41,Lipid,brown,Lipid,Lipid
+cis-3-hexenyl acetate,3681-71-8,42,Lipid,black,Lipid,Lipid
+hexyl alcohol,111-27-3,43,Lipid,black,Lipid,Lipid
+1-penten-3-ol,616-25-1,44,Lipid,brown,Lipid,Lipid
+1-pentanol,71-41-0,45,Lipid,turquoise,Lipid,Lipid
+trans-2-hexenal,6728-26-3,46,Lipid,turquoise,Lipid,Lipid
+1-octen-3-one,4312-99-6,47,Lipid,turquoise,Lipid,Lipid
+trans-2-heptenal,18829-55-5,48,Lipid,turquoise,Lipid,Lipid
+3-pentanone,96-22-0,49,Lipid,brown,Lipid,Lipid
+1-penten-3-one,1629-58-9,50,Lipid,brown,Lipid,Lipid
+"trans,trans-2,4-decadienal",25152-84-5,51,Lipid,turquoise,Lipid,Lipid
+trans-2-pentenal,1576-87-0,52,Lipid,turquoise,Lipid,Lipid
+hexyl acetate,142-92-7,53,Lipid,black,Lipid,Lipid
+nonyl aldehyde,124-19-6,54,Lipid,turquoise,Lipid,Lipid
+b-ionone,NA,55,Carotenoid,turquoise,Carotenoid,Carotenoid
+b-cyclocitral,432-25-7,56,Carotenoid,turquoise,Carotenoid,Carotenoid
+geranial,5392-40-5,57,Carotenoid,red,Carotenoid,Carotenoid
+6-methyl-5-hepten-2-ol,1569-60-4,58,Carotenoid,red,Carotenoid,Carotenoid
+neral,106-26-3,59,Carotenoid,red,Carotenoid,Carotenoid
+6-methyl-5-hepten-2-one,110-93-0,60,Carotenoid,red,Carotenoid,Carotenoid
+geranylacetone,3796-70-1,61,Carotenoid,red,Carotenoid,Carotenoid
+"2,5-dimethyl-4-hydroxy-3(2H)-furanone",3658-77-3,62,unknown,turquoise,unknown,unknown
+4-carene,29050-33-7,63,unknown,grey,unknown,unknown
+methional,3268-49-3,64,unknown,grey,unknown,unknown
+eugenol,97-53-0,65,unknown,black,unknown,unknown
+2-ethylfuran,3208-16-0,NA,unknown,grey,unknown,unknown
+b-damascenone,23696-85-7,NA,unknown,grey,Carotenoid,Carotenoid
+benzothiazole,95-16-9,NA,unknown,grey,unknown,unknown
+p-anisaldehyde,0123-11-05,NA,unknown,grey,unknown,unknown
+2-butylacetate,NA,NA,unknown,grey,unknown,unknown
