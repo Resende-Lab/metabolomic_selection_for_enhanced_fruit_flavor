@@ -1,0 +1,68 @@
+sensory,trait,species,var.comp,main.group
+sugar,liking,blueberry,17.72882351,Sugar Acid
+acids,liking,blueberry,21.75514694,Sugar Acid
+AA,liking,blueberry,4.080052297,VOCs
+phe,liking,blueberry,6.368421919,VOCs
+carot,liking,blueberry,21.17819431,VOCs
+lipid,liking,blueberry,9.062724016,VOCs
+ester,liking,blueberry,15.33952916,VOCs
+residual,liking,blueberry,4.487107846,Residual
+sugar,sweetness,blueberry,26.82030147,Sugar Acid
+acids,sweetness,blueberry,33.13131936,Sugar Acid
+AA,sweetness,blueberry,6.06E-06,VOCs
+phe,sweetness,blueberry,8.892243595,VOCs
+carot,sweetness,blueberry,4.438839904,VOCs
+lipid,sweetness,blueberry,8.08982534,VOCs
+ester,sweetness,blueberry,11.62504739,VOCs
+residual,sweetness,blueberry,7.002416887,Residual
+sugar,sour,blueberry,4.480079115,Sugar Acid
+acids,sour,blueberry,38.31269909,Sugar Acid
+AA,sour,blueberry,0.239754404,VOCs
+phe,sour,blueberry,3.600783227,VOCs
+carot,sour,blueberry,17.41110158,VOCs
+lipid,sour,blueberry,31.27800444,VOCs
+ester,sour,blueberry,3.248875418,VOCs
+residual,sour,blueberry,1.428702728,Residual
+sugar,intensity,blueberry,53.08264404,Sugar Acid
+acids,intensity,blueberry,2.104387082,Sugar Acid
+AA,intensity,blueberry,8.420284232,VOCs
+phe,intensity,blueberry,5.046890117,VOCs
+carot,intensity,blueberry,3.48E-06,VOCs
+lipid,intensity,blueberry,7.830542596,VOCs
+ester,intensity,blueberry,16.94046343,VOCs
+residual,intensity,blueberry,6.574785016,Residual
+sugar,liking,tomato,43.26201299,Sugar Acid
+acids,liking,tomato,9.15988236,Sugar Acid
+AA,liking,tomato,7.074331124,VOCs
+phe,liking,tomato,16.33671365,VOCs
+carot,liking,tomato,5.103707374,VOCs
+lipid,liking,tomato,13.06359395,VOCs
+residual,liking,tomato,5.999758552,Residual
+sugar,sweetness,tomato,29.30850723,Sugar Acid
+acids,sweetness,tomato,7.839414152,Sugar Acid
+AA,sweetness,tomato,5.718125456,VOCs
+phe,sweetness,tomato,34.1194381,VOCs
+carot,sweetness,tomato,6.329260461,VOCs
+lipid,sweetness,tomato,15.72046741,VOCs
+residual,sweetness,tomato,0.964787192,Residual
+sugar,sour,tomato,23.55994288,Sugar Acid
+acids,sour,tomato,53.92167745,Sugar Acid
+AA,sour,tomato,6.201245392,VOCs
+phe,sour,tomato,4.463358261,VOCs
+carot,sour,tomato,0.226096771,VOCs
+lipid,sour,tomato,10.94207346,VOCs
+residual,sour,tomato,0.685605797,Residual
+sugar,umami,tomato,12.62263502,Sugar Acid
+acids,umami,tomato,16.93137563,Sugar Acid
+AA,umami,tomato,4.2470577,VOCs
+phe,umami,tomato,3.01516937,VOCs
+carot,umami,tomato,18.64846182,VOCs
+lipid,umami,tomato,43.81583115,VOCs
+residual,umami,tomato,0.719469311,Residual
+sugar,intensity,tomato,10.50593029,Sugar Acid
+acids,intensity,tomato,20.91226797,Sugar Acid
+AA,intensity,tomato,7.593859581,VOCs
+phe,intensity,tomato,32.55416623,VOCs
+carot,intensity,tomato,1.006983491,VOCs
+lipid,intensity,tomato,26.9353668,VOCs
+residual,intensity,tomato,0.491425646,Residual

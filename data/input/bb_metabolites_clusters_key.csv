@@ -1,0 +1,56 @@
+Metabolite,CAS_Number,fig2a_legend_number,fig2a_legend_type,WGCNA_cluster_assignment_notused,fig2b_histogram,GBLUP_cluster
+citric,NA,1,Acid/Sugar,red,Acid/Sugar,Acid/Sugar
+TA,NA,2,Acid/Sugar,red,Acid/Sugar,Acid/Sugar
+SS-TA,NA,3,Acid/Sugar,NA,Acid/Sugar,Acid/Sugar
+fructose,NA,4,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+glucose,NA,5,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+sucrose,NA,6,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+Soluble solids,NA,7,Acid/Sugar,green,Acid/Sugar,Acid/Sugar
+Methyl isovalerate,556-24-1,8,AA derived,red,AA derived,AA derived
+Isovaleraldehyde,590-86-3,9,AA derived,grey,AA derived,AA derived
+3-Methylbutanol,123-51-3,10,AA derived,grey,AA derived,AA derived
+Methyl salicylate,119-36-8,11,Phe derived,grey,Phe derived,Phe derived
+Phenylacetaldehyde,122-78-1,12,Phe derived,grey,Phe derived,Phe derived
+Geranial,141-27-5,13,Carotenoid/Terpenoid,grey,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Caryophyllene,1139-30-6,14,Carotenoid/Terpenoid,turquoise,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Limonene,5989-27-5,15,Carotenoid/Terpenoid,turquoise,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+6-Methyl-5-hepten-2-one,110-93-0,16,Carotenoid/Terpenoid,turquoise,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+(E)-geranyl-acetone,689-67-8,17,Carotenoid/Terpenoid,turquoise,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Linalool,78-70-6,18,Carotenoid/Terpenoid,yellow,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Eucalyptol,470-82-6,19,Carotenoid/Terpenoid,yellow,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Nerylacetone,3879-26-3,20,Carotenoid/Terpenoid,turquoise,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Neral,106-26-3,21,Carotenoid/Terpenoid,grey,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+6-Methyl-2-heptanone,928-68-7,22,Carotenoid/Terpenoid,turquoise,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Alpha pinene,7785-70-8,23,Carotenoid/Terpenoid,grey,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Myrtenal,564-94-3,24,Carotenoid/Terpenoid,grey,Carotenoid/Terpenoid,Carotenoid/Terpenoid
+Methyl butyrate,623-42-7,25,Ester,blue,Ester,Ester
+Methyl hexanoate,106-70-7,26,Ester,blue,Ester,Ester
+Hexyl butyrate,2639-63-6,27,Ester,turquoise,Ester,Ester
+Prenyl acetate,1191-16-8,28,Ester,blue,Ester,Ester
+Ethyl propionate,105-37-3,29,Ester,grey,Ester,Ester
+2-Hexenyl-acetate,2497-18-9,30,Ester,blue,Ester,Ester
+3-Hexenyl-acetate,3681-71-8,31,Ester,blue,Ester,Ester
+2-Hexenyl-butyrate,53398-83-7,32,Ester,blue,Ester,Ester
+Isoamyl acetate,123-92-2,33,Ester,blue,Ester,Ester
+2-Octanone,111-13-7,34,Lipid,turquoise,Lipid,Lipid
+Tridecane,629-50-5,35,Lipid,turquoise,Lipid,Lipid
+2-Nonanone,821-55-6,36,Lipid,grey,Lipid,Lipid
+2-Heptanone,110-43-0,37,Lipid,turquoise,Lipid,Lipid
+2-Undecanone,0112-12-09,38,Lipid,brown,Lipid,Lipid
+2-Pentenal,110-62-3,39,Lipid,brown,Lipid,Lipid
+2-Hexen-1-ol,928-95-0,40,Lipid,blue,Lipid,Lipid
+1-Hexanol,111-27-3,41,Lipid,blue,Lipid,Lipid
+1-Pentanol,71-41-0,42,Lipid,yellow,Lipid,Lipid
+Hexanoic acid,142-62-1,43,Lipid,brown,Lipid,Lipid
+2-Penten-1-ol,1576-95-0,44,Lipid,yellow,Lipid,Lipid
+Hexyl acetate,142-92-7,45,Lipid,blue,Ester,Ester
+Valeraldehyde,110-62-3,46,Lipid,brown,Lipid,Lipid
+1-Penten-3-ol,616-25-1,47,Lipid,yellow,Lipid,Lipid
+Nonanal,124-19-6,48,Lipid,grey,Lipid,Lipid
+Hexanal,66-25-1,49,Lipid,brown,Lipid,Lipid
+Dodecane,112-40-3,50,Lipid,yellow,Lipid,Lipid
+Heptanal,111-71-7,51,Lipid,brown,Lipid,Lipid
+2-Hexen-1-al,6728-26-3,52,Lipid,brown,Lipid,Lipid
+2-Pentanone,107-87-9,53,Lipid,grey,Lipid,Lipid
+2-Ethyl-1-hexanol,104-76-7,54,unknown,grey,unknown,unknown
+Ethyl hexanoate,123-66-0,55,unknown,turquoise,Ester,Ester
