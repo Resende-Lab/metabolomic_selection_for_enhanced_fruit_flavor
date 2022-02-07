@@ -5,11 +5,11 @@
 This repository contains data and scripts used to repoduce analyses in the manuscript "Metabolomic Selection for Enhanced Fruit Flavor" found on [BioRxiv](https://www.biorxiv.org/content/10.1101/2020.09.17.302802v1.full)
 
 # Table of Contents
-1. [Abstract](#Abstract)
+1. [Abstract](#abstract)
 2. [Figures](#figures)
 3. [Conclusion](#conclusion)
 
-# Introduction <a name="introduction"></a>
+# Abstract <a name="abstract"></a>
 
 # Figures <a name="figures"></a>
 
@@ -31,6 +31,8 @@ Next we create the metabolite network using the WGCNA package
 * [1.b.metabolite_histograms.R]
 Plotting the tomato volatile concentration violin plots in panel b
 
+* [./results/fig1/asPublished_metabolite_networks.cys]
+The cytoscape visualization used to plot out the results from 1.a.wgcna_tomato.R and 2.a.wgcna_blueberry.R. Also used to compute betweenness centrality statistics.
 
 
 ## Figure 2 <a name="fig2"></a>
@@ -44,30 +46,18 @@ Creating the blueberry metabolite network.
 Plotting the blueberry volatile concentration violin plots in panel b
 
 
-
 ## Figure 3 <a name="fig3"></a>
 
 ![fig3](./figures/svgs/fig3.svg)
+
+* [3.a.variance_decomposition.R]  
+Calculating contributions of volatile classes to variance in flavor ratings using linear mixed modeling.
+
 
 ## Figure 4 <a name="fig4"></a>
 
 ![fig4](./figures/svgs/fig4.svg)
 
-## Figure 5 <a name="fig5"></a>
-
-![fig5](./figures/svgs/fig5.svg)
-
-## Figure 6 <a name="fig6"></a>
-
-![fig6](./figures/svgs/fig6.svg)
-
-
-
-
-
-2.a.wgcna_blueberry.R
-2.b.metabolite_histograms.R
-3.a.variance_decomposition.R
 4.a.1.metabolomic_selection_tomato.R
 4.b.1.genomic_selection_tomato.sh
 4.b.2.genomic_selection_tomato.sh
@@ -80,6 +70,17 @@ Plotting the blueberry volatile concentration violin plots in panel b
 4.c.2.subsampling.sh
 4.c.3.subsampling.R
 4.c.4.subsamplingPlots.R
+
+
+## Figure 5 <a name="fig5"></a>
+
+![fig5](./figures/svgs/fig5.svg)
+
 5.a.1.calculate_final_weights.Rmd
 5.a.2.plot_tomato_weights.R
 5.a.3.plot_blueberry_weights.R
+
+
+## Figure 6 <a name="fig6"></a>
+
+![fig6](./figures/svgs/fig6.svg)
