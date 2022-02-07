@@ -41,26 +41,35 @@ Additionally, the cytoscape visualization used to plot out the results from 1.a.
 
 ![fig2](./figures/svgs/fig2.svg)
 
+Creating the blueberry metabolite network:
+
 * [2.a.wgcna_blueberry.R]
-Creating the blueberry metabolite network.
+
+Plotting the blueberry volatile concentration violin plots in panel b:
 
 * [2.b.metabolite_histograms.R]
-Plotting the blueberry volatile concentration violin plots in panel b
 
 
 ## Figure 3 <a name="fig3"></a>
 
 ![fig3](./figures/svgs/fig3.svg)
 
+Calculating contributions of volatile classes to variance in flavor ratings using linear mixed modeling:
+
 * [3.a.variance_decomposition.R]  
-Calculating contributions of volatile classes to variance in flavor ratings using linear mixed modeling.
 
 
 ## Figure 4 <a name="fig4"></a>
 
 ![fig4](./figures/svgs/fig4.svg)
 
+### Training metabolomic selection models
+
 * [4.a.1.metabolomic_selection_tomato.R]
+
+### Comparing genomic selection and metabolomic selection models
+
+These models were ran on our HiPerGator cluster. The general structure is the first bash script launches the jobs for a cross validation and replication, the second bash script creates an environment to run the jobs in R, and the R script does the computation.
 
 * [4.b.1.genomic_selection_tomato.sh]
 
@@ -75,6 +84,8 @@ Calculating contributions of volatile classes to variance in flavor ratings usin
 * [4.b.6.metabolomic_selection_tomato.R]
 
 * [4.b.7.gblup_plots.R]
+
+### Evaluating how many fruit varieties are needed to train accurate metabolomic selection models
 
 * [4.c.1.subsampling.sh]
 
