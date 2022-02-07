@@ -7,7 +7,6 @@ This repository contains data and scripts used to repoduce analyses in the manus
 # Table of Contents
 1. [Abstract](#abstract)
 2. [Figures](#figures)
-3. [Conclusion](#conclusion)
 
 # Abstract <a name="abstract"></a>
 
